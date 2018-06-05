@@ -1,0 +1,35 @@
+.primera_seccion {
+    background-color: yellow;
+    border: 2px solid white;
+    height: 100px;
+}
+
+.segunda_seccion {
+    background-color: greenyellow;
+    border: 2px solid white;
+    height: 100px;
+}
+
+.tercera_seccion {
+    background-color: aqua;
+    border: 2px solid white;
+    height: 100px;
+}
+
+.cuarta_seccion {
+    background-color: cadetblue;
+    border: 2px solid white;
+    height: 100px;
+}
+
+.quinta_seccion {
+    background-color:purple;
+    border: 2px solid white;
+    height: 100px;
+}
+
+.sexta_seccion {
+    background-color:fuchsia;
+    border: 2px solid white;
+    height: 100px;
+}
